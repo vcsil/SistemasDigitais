@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Jan 07 13:37:08 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : P14placa
+Top-level Entity Name : P14placa
+Family : Cyclone IV E
+Total logic elements : 207
+    Total combinational functions : 207
+    Dedicated logic registers : 47
+Total registers : 47
+Total pins : 72
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
