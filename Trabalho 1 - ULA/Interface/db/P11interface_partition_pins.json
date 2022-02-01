@@ -1,0 +1,133 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "resultadoDISPLAY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "resultadoDISPLAY[1]",
+					"strict" : false
+				},
+				{
+					"name" : "resultadoDISPLAY[2]",
+					"strict" : false
+				},
+				{
+					"name" : "resultadoDISPLAY[3]",
+					"strict" : false
+				},
+				{
+					"name" : "resultadoDISPLAY[4]",
+					"strict" : false
+				},
+				{
+					"name" : "resultadoDISPLAY[5]",
+					"strict" : false
+				},
+				{
+					"name" : "resultadoDISPLAY[6]",
+					"strict" : false
+				},
+				{
+					"name" : "resultadoDISPLAY[7]",
+					"strict" : false
+				},
+				{
+					"name" : "carry_borrowLED",
+					"strict" : false
+				},
+				{
+					"name" : "operacaoLED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "operacaoLED[1]",
+					"strict" : false
+				},
+				{
+					"name" : "operacaoLED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saidaB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "entradaA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "entradaA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "entradaA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "entradaA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "entradaB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "entradaB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "entradaB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "entradaB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "botaoSEL",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
